@@ -242,11 +242,6 @@ pre {
             </section>
 
           </section>
-          <section class="col-xs-12 col-sm-6 col-md-6">
-
-
-
-          </section>
         </div>
 
         <footer>
@@ -261,6 +256,12 @@ pre {
     #
     start_response(status, response_headers)
     return [response_body.encode('utf-8') ]
+
+#          <section class="col-xs-12 col-sm-6 col-md-6">
+#         </section>
+
+
+
 
 #
 # Below for testing only
