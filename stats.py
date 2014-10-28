@@ -49,7 +49,7 @@ def nowords(sourcelang="lv"):
     eestitahendustearv = round(eestiterm/eestitermdistinct, 2)
     eestisonupermoiste = round(eestiterm/moisteid, 2)
 
-    nowstring =  "<p>Puhastatud on " + str(moisteid) + " mõistet.</p>"
+    nowstring =  "<p>Puhastatud on " + str(moisteid) + " mõistet..</p>"
     nowstring += "<p>Neis on " + str(eestiterm) + " eesti märksõna, millest " + str(eestitermdistinct) + " erikujulist.<br> "
     nowstring += "Ühel eesti märksõnal on seega keskmiselt " + str(eestitahendustearv) + " tähendust.<br> "
     nowstring += "Ühel mõistel on keskmiselt " + str(eestisonupermoiste) + " eesti sõna.</p>"
