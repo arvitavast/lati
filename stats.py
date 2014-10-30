@@ -43,13 +43,13 @@ def nowords(sourcelang="lv"):
     cursor.execute(comparequery) #, (sourcelang, ))
     result = cursor.fetchall()
 
-    moisteid = result[0][2] + 4000
-    eestiterm = result[0][0] + 4000
-    eestitermdistinct = result[0][1] + 4000
+    moisteid = result[0][2] + 3920
+    eestiterm = result[0][0] + 3920
+    eestitermdistinct = result[0][1] + 3920
     eestitahendustearv = round(eestiterm/eestitermdistinct, 2)
     eestisonupermoiste = round(eestiterm/moisteid, 2)
 
-    nowstring =  "<p>Puhastatud on " + str(moisteid) + " mõistet..</p>"
+    nowstring =  "<p>Puhastatud on " + str(moisteid) + " mõistet.</p>"
     nowstring += "<p>Neis on " + str(eestiterm) + " eesti märksõna, millest " + str(eestitermdistinct) + " erikujulist.<br> "
     nowstring += "Ühel eesti märksõnal on seega keskmiselt " + str(eestitahendustearv) + " tähendust.<br> "
     nowstring += "Ühel mõistel on keskmiselt " + str(eestisonupermoiste) + " eesti sõna.</p>"
