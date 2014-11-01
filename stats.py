@@ -43,9 +43,9 @@ def nowords(sourcelang="lv"):
     cursor.execute(comparequery) #, (sourcelang, ))
     result = cursor.fetchall()
 
-    moisteid = result[0][2] + 3800
-    eestiterm = result[0][0] + 3800
-    eestitermdistinct = result[0][1] + 3800
+    moisteid = result[0][2] + 3740
+    eestiterm = result[0][0] + 3740
+    eestitermdistinct = result[0][1] + 3740
     eestitahendustearv = round(eestiterm/eestitermdistinct, 2)
     eestisonupermoiste = round(eestiterm/moisteid, 2)
 
