@@ -43,7 +43,7 @@ def nowords(sourcelang="lv"):
     cursor.execute(comparequery) #, (sourcelang, ))
     result = cursor.fetchall()
 
-    tk = 3100
+    tk = 3050
 
     moisteid = result[0][2] + tk
     eestiterm = result[0][0] + tk
