@@ -242,6 +242,14 @@ pre {
             </section>
 
           </section>
+          <section class='col-xs-12 col-sm-6 col-md-6'>
+            <section>
+              <h2>Küljendus</h2>
+                <a href="https://www.dropbox.com/s/sovltzrhwh8riab/kpr2.pdf?dl=0">pdf</a>
+
+            </section>
+
+          </section>
         </div>
 
         <footer>
