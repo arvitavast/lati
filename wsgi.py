@@ -245,7 +245,7 @@ pre {
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
               <h2>Küljendus</h2>
-                <a href="https://www.dropbox.com/s/jw11twcx9rqarh2/kogu_sonastik.pdf?dl=0">Kogu sõnastik</a>
+                <a href="https://www.dropbox.com/s/jw11twcx9rqarh2/kogu_sonastik.pdf?dl=0" target="_blank">Kogu sõnastik</a>
 
             </section>
 
