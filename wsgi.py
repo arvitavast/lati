@@ -247,7 +247,7 @@ pre {
               <h2>Küljendus</h2>
                 <a href="https://www.dropbox.com/s/jw11twcx9rqarh2/kogu_sonastik.pdf?dl=0" target="_blank">Töövariant koostajatele</a>
                 <p>
-                <a href="https://www.dropbox.com/s/o1d6i6e5qqmhjai/trykki.pdf?dl=0" target="_blank">Puhas pdf kirjastusele</a>
+                <a href="https://www.dropbox.com/s/o1d6i6e5qqmhjai/trykki.pdf?dl=0" target="_blank">Selline läks 27.03.15 trükki</a>
 
             </section>
 
