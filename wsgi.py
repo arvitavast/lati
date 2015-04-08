@@ -248,6 +248,8 @@ pre {
                 <a href="https://www.dropbox.com/s/jw11twcx9rqarh2/kogu_sonastik.pdf?dl=0" target="_blank">Töövariant koostajatele</a>
                 <p>
                 <a href="https://www.dropbox.com/s/o1d6i6e5qqmhjai/trykki.pdf?dl=0" target="_blank">Selline läks 27.03.15 trükki</a>
+                <p>
+                <a href="https://www.dropbox.com/s/rngmsy28oyxkeo2/ekuju.txt?dl=0" target="_blank">XMLi moodi asi veebis avaldamise jaoks</a>
 
             </section>
 
