@@ -249,7 +249,7 @@ pre {
                 <p>
                 <a href="https://www.dropbox.com/s/o1d6i6e5qqmhjai/trykki.pdf?dl=0" target="_blank">Selline läks 27.03.15 trükki</a>
                 <p>
-                <a href="https://www.dropbox.com/s/rngmsy28oyxkeo2/ekuju.txt?dl=0" target="_blank">XMLi moodi asi veebis avaldamise jaoks</a>
+                <a href="https://www.dropbox.com/s/087ozq3v180lyuk/ekuju.txt?dl=0" target="_blank">XMLi moodi asi veebis avaldamise jaoks</a>
 
             </section>
 
