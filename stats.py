@@ -24,7 +24,7 @@ def nowords(sourcelang="lv"):
     filefooter = """</body>
                     </html>"""
 
-    cnx = pymysql.connect(host='termbases.eu', user='arvi', passwd='v2MBxSa73NNsTaHX', db='tb_live')
+    cnx = pymysql.connect(host='termbases.eu', user='arvi', passwd='l2tipats', db='tb_live')
 
     cursor = cnx.cursor()
 
